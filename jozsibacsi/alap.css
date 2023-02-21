@@ -1,0 +1,109 @@
+body{
+    background-image: url(/ezgif.com-gif-maker.jpg);
+    background-size: cover;
+    
+}
+
+.bg-image{
+    backdrop-filter: blur(100px); 
+}
+
+
+#fonav a {
+    font-family: 'Cabin', sans-serif;
+    font-size:14px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    text-shadow:1px 1px 2px rgba(0,0,0,0.4)
+    
+}
+
+.dropdown-menu {
+    background:#03727d
+}
+
+a.dropdown-item:hover {
+    color:#03727d
+ }
+
+.nav-item a{
+    color:#dfdfdf;
+}
+
+.nav-item{
+    min-width:12vw;
+}
+
+
+p a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+    
+}
+
+p a:hover{
+    color: #03727d;
+}
+
+.contact{
+    min-width: 10vw;
+}
+
+
+h4{
+    font-size: 300px;
+    text-transform: uppercase;
+    font-family: 'Cabin', sans-serif ;
+    line-height: 10.8px;
+    font-weight:lighter;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 15px;
+    text-shadow:1px 1px 2px rgba(0,0,0,0.4);
+    padding-top: 10%;
+
+    
+
+}
+h6{
+    margin: 150px;
+    padding-top: 30px;
+    color: #8f8f8f;
+}
+
+button{
+    padding: 17px 40px;
+    border: 0;
+    background-color: #8f8f8f;
+    box-shadow: 2px 2px 3px black;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all .5s ease;
+    margin: 20px 20px 20px;
+}
+
+button:hover{
+    letter-spacing: 3px;
+    background-color: black;
+    color: white;
+    box-shadow: 0px 7px 27px 0px;
+
+
+}
+
+button:active{
+    letter-spacing: 3px;
+    background-color: black;
+    color: white;
+    transform: translateY(10px);
+    transition: 100ms;
+
+}
+
+.gomb{
+    border-radius: 50px;
+    
+
+}
