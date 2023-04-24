@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+ p{
+  font-size: 24px;
+ }
+  
+ 
+  
+  .betugomb {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(130, 107, 82); 
+    color: rgb(0, 0, 0);  
+    
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+  
+ .szomegjelenites {
+    margin: 0 auto;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    letter-spacing: 20px;
+  }
+  
+  .uj {
+    margin: 20px;
+    padding: 15px;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px black;
+    background-color: rgb(130, 107, 82);
+  }
+  
